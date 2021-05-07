@@ -2,7 +2,7 @@
 ### By Tim Leach
 
 
-##Components Necessary to Build a Computer
+## Components Necessary to Build a Computer
 * CPU
 * GPU
 * CPU Cooler
