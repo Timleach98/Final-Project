@@ -12,7 +12,7 @@
 * Case
 * Fans
 
-![CPU](cpu.png "CPU and MOBO")
+![CPU and MOBO](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2017/06/What-is-CPU-Featured.jpg)
 
 ## Step 1: Starting Up
 
