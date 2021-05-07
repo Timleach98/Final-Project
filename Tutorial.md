@@ -12,7 +12,7 @@
 * Case
 * Fans
 
-![CPU](/path/to/image.png "Text to show on mouseover")
+![CPU](cpu.png "CPU and MOBO")
 
 ## Step 1: Starting Up
 
