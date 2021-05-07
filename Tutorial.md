@@ -12,6 +12,8 @@
 * Case
 * Fans
 
+![CPU](/path/to/image.png "Text to show on mouseover")
+
 ## Step 1: Starting Up
 
 1. Take Motherboard out of box and socket in CPU *very* carefully.
