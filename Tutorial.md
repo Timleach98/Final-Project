@@ -34,3 +34,4 @@
 1. Turn on power supply to check if working.
 2. Plug in all cables for mouse, monitor, and keyboard.
 3. Enjoy your new computer!
+4. Note: When you first start up the computer, a double reboot is normal. Do not mess with anything in the BIOS until you have Windows fully installed and running. 
